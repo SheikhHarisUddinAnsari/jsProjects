@@ -1,0 +1,14 @@
+var places = ["Istanbol", "Switzerland", "Afghanistan", "Vietnam", "Canada"];
+console.log(places);
+console.log(places.slice().sort());
+console.log(places);
+console.log(places.slice().sort().reverse());
+console.log(places);
+places.reverse();
+console.log(places);
+places.reverse();
+console.log(places);
+places.sort();
+console.log(places);
+places.sort().reverse();
+console.log(places);
